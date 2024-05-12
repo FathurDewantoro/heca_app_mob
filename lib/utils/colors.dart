@@ -1,0 +1,24 @@
+import 'package:flutter/material.dart';
+
+const primaryColor = Color(0xff0A59CF);
+const primaryDisableColor = Color(0x660A59CE);
+const secondaryColor = Color(0xffD3F8DF);
+const borderPrimaryColor = Color(0xffAAF0C4);
+const grayColor = Color(0xff667085);
+const grayColor900 = Color(0xff101828);
+const grayColor700 = Color(0xff344054);
+const grayColor500 = Color(0xff979797);
+const whiteColor = Color(0xffffffff);
+const paragraphColor = Color(0xff667085);
+const borderColor = Color(0xffD0D5DD);
+const borderPrimary50 = Color(0xffECFDF3);
+const errorColor = Color(0xffD92D20);
+const errorColor100 = Color(0xffFEE4E2);
+const errorColor50 = Color(0xffFEF3F2);
+const errorColor500 = Color(0xffF04438);
+const errorColor900 = Color(0xffB71C1C);
+const backgroundGray = Color(0xffF2F4F7);
+const whiteBackrground = Color(0xffF9FAFB);
+const blueColor500 = Color(0xff2E90FA);
+const blueColor700 = Color(0xff1570EF);
+const bubbleChatGrayColor = Color(0xff979797);

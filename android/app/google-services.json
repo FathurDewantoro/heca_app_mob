@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "678554360728",
+    "project_id": "heca-apps",
+    "storage_bucket": "heca-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678554360728:android:34d8db825022ce33c9a9ed",
+        "android_client_info": {
+          "package_name": "com.example.heca_app_mob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApCJlh05yiWSt2tBuk0ZnqvCB12LhOl8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
